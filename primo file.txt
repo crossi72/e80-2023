@@ -2,3 +2,4 @@ file di prova per il controllo di versione
 modifica al primo file: aggiungo una riga
 inserisco una riga all'interno del file
 questa modifica è stata fatta bene
+aggiungo una riga per mostrare il controllo di versione all'interno di visual studio code
