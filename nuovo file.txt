@@ -1,3 +1,2 @@
 questa è la nuova meravigliosa versione!
 Chiudiamo una issue!!!
-test
